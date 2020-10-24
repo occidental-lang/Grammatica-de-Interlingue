@@ -27,7 +27,7 @@ Li formes in parenteses es usat solmen in casu de necessitá.
 
 ## § 40
 
-Li pronómin de **politesse** es: **vu** (cf. [§ 13](04-Ortografie?id=§-13)). On usa it vice tu, quel expresse un cert intimitá o parentitá.
+Li pronómin de **politesse** es: **vu** (cf. [§ 13](04-Ortografie#-13)). On usa it vice tu, quel expresse un cert intimitá o parentitá.
 
 ## § 41
 

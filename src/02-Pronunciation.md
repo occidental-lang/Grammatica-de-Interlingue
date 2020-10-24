@@ -27,7 +27,7 @@ leôn *, creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic, 
 
 In plu un strict regul pri li pronunciation long o curt, cludet o apert del vocales ne existe. Preferibil es li pronunciationes simil a FGHI.
 
-Qui ne conosse alcun de ti pronunciationes posse sequer li indicationes del [§ 4](02-Pronunciation?id=§-4) quam recomendation, ma ne quam regul strict o complet.
+Qui ne conosse alcun de ti pronunciationes posse sequer li indicationes del [§ 4](02-Pronunciation#-4) quam recomendation, ma ne quam regul strict o complet.
 
 ## § 4
 

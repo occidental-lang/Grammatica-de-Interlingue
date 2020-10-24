@@ -20,17 +20,17 @@ Li adjuntion de desinenties es ja tractat in li concernent paragrafes del gramma
 
 1. Desinenties substantivic: 
 
-  1. **-e**   (§ [22](06-Substantive?id=§-22), [30](07-Adjective?id=§-30), [87](10-Verb?id=§-87))
+  1. **-e**   (§ [22](06-Substantive#-22), [30](07-Adjective#-30), [87](10-Verb#-87))
 
-  2. **-a**    (§ [24](06-Substantive?id=§-24), [30](07-Adjective?id=§-30), [87](10-Verb?id=§-87))
+  2. **-a**    (§ [24](06-Substantive#-24), [30](07-Adjective#-30), [87](10-Verb#-87))
 
-  3. **-o**    (§ [24](06-Substantive?id=§-24), [30](07-Adjective?id=§-30))
+  3. **-o**    (§ [24](06-Substantive#-24), [30](07-Adjective#-30))
 
-  4. **-u**    (§ [25](06-Substantive?id=§-25)) **-um** (§ [31](07-Adjective?id=§-31))
+  4. **-u**    (§ [25](06-Substantive#-25)) **-um** (§ [31](07-Adjective#-31))
 
-2. Desinenties adjectivic: **-i**    (§ [29](07-Adjective?id=§-29)).
+2. Desinenties adjectivic: **-i**    (§ [29](07-Adjective#-29)).
 
-3. Desinenties adverbial: **-e**    (§ [74](10-Verb?id=§-74)) **-men** (§ [90](11-Adverbies?id=§-90)).
+3. Desinenties adverbial: **-e**    (§ [74](10-Verb#-74)) **-men** (§ [90](11-Adverbies#-90)).
 
 ## § 126
 
@@ -62,7 +62,7 @@ _felici, sagi, porosi, organisatori, amari, curvi, vacui._
 
 ## § 127
 
-In mult international parolformationes li prefixes e prefixial expressiones perdi su ultim consonant o assimila it al sequent consonant; in ti casu duplic consonantes es viceat secun [§ 10](04-Ortografie?id=§-10) per simplics, exceptet pos ín- (ma anc li altri ortografies es permisset).
+In mult international parolformationes li prefixes e prefixial expressiones perdi su ultim consonant o assimila it al sequent consonant; in ti casu duplic consonantes es viceat secun [§ 10](04-Ortografie#-10) per simplics, exceptet pos ín- (ma anc li altri ortografies es permisset).
 
 _adtracter — attracter — atracter, conlaborar — collaborar — colaborar, conoperativ — cooperativ, conposition — composition, disfuser — diffuser — difuser, exmigrar — emmigrar — emigrar, coneducation — coeducation, ínregulari — irregulari, ínlegal — illegal._
 
@@ -174,7 +174,7 @@ In mult casus existe altri relationes internationalmen conosset: beson, **besona
 
 **Sufixes por verbal substantives**
 
-1. adjuntet al **tema perfectic** secun [§ 80](10-Verb?id=§-80):
+1. adjuntet al **tema perfectic** secun [§ 80](10-Verb#-80):
 
 **-ion**: action, anc resultat e loc de it: administration, expedition, construction, distribution, explosion.
 
@@ -182,15 +182,15 @@ In mult casus existe altri relationes internationalmen conosset: beson, **besona
 
 **-ura**: concretisat action e su resultate: reparatura, garnitura, lectura, creatura.
 
-2. adjuntet **al tema presentic** secun [§ 84](10-Verb?id=§-84):
+2. adjuntet **al tema presentic** secun [§ 84](10-Verb#-84):
 
 -ment: concret action o su resultate, o servient a, servient quam: fundament, nutriment, movement.
 
-3. adjuntet al radica verbal secun [§ 85](10-Verb?id=§-85):
+3. adjuntet al radica verbal secun [§ 85](10-Verb#-85):
 
 -ida (verbes in -ar: -ada): action in durada: promenada, perdida, currida.
 
-4. adjuntet al participie presentic secun [§ 82](10-Verb?id=§-82):
+4. adjuntet al participie presentic secun [§ 82](10-Verb#-82):
 
 -ie: statú in durada: tolerantie, provenientie, existentie.
 
@@ -202,7 +202,7 @@ In mult casus existe altri relationes internationalmen conosset: beson, **besona
 
 **-ist**: person ocupant se pri, adherente de: calvinist, socialist, librist, telegrafista.
 
-**-or**: cp. [§ 136](17-Parolformation?id=§-136).
+**-or**: cp. [§ 136](17-Parolformation#-136).
 
 **-ari-**: person caracterisat per alquó external, p. ex. un function: millionario, functionaria, bibliotecario, pensionaria.
 
@@ -214,7 +214,7 @@ In mult casus existe altri relationes internationalmen conosset: beson, **besona
 
 **-es-**: habitante (anc adjectivic): francese, franceso, francesa, francesi, borgeso.
 
-**-ane, -ano, -ana**: cp. [§ 140](17-Parolformation?id=§-140).
+**-ane, -ano, -ana**: cp. [§ 140](17-Parolformation#-140).
 
 **-essa**: féminas con special dignitá o function: princessa, diaconessa, actressa, imperatressa.
 
@@ -224,7 +224,7 @@ In mult casus existe altri relationes internationalmen conosset: beson, **besona
 
 **Qualitativ sufixes**
 
-**-ie**: abstract substantives, statu (cp. § [82](10-Verb?id=§-82), [136](17-Parolformation?id=§-136)): anatomie, maladie, elegantie, existentie, furie, tirannie.
+**-ie**: abstract substantives, statu (cp. § [82](10-Verb#-82), [136](17-Parolformation#-136)): anatomie, maladie, elegantie, existentie, furie, tirannie.
 
 **-itá** (-etá, si li radica fini per i): qualitá: homanitá, yunitá, quantitá, proprietá, ebrietá.
 
@@ -298,11 +298,11 @@ Per **-ica** on indica scienties o artes, per **-ico** lor executores: **fisic, 
 
 **-in**: consistent de, provenient de: argentin, alpin, matrin, svinin (svinine).
 
-**-iv** (adjuntet al tema perfectic secun [§ 80](10-Verb?id=§-80)): actent talmen, capabil: decorativ, obligativ, consolativ, definitiv, constructiv, ofensiv (ofensive), directiv (directive), alternativ (alternative).
+**-iv** (adjuntet al tema perfectic secun [§ 80](10-Verb#-80)): actent talmen, capabil: decorativ, obligativ, consolativ, definitiv, constructiv, ofensiv (ofensive), directiv (directive), alternativ (alternative).
 
-**-ori** (adjuntet al tema perfectic secun [§ 80](10-Verb?id=§-80)): destinat a, devent acter talmen (adjective de -or): decoratori, obligatori, consolatori, ilusori, preparatori, instructori.
+**-ori** (adjuntet al tema perfectic secun [§ 80](10-Verb#-80)): destinat a, devent acter talmen (adjective de -or): decoratori, obligatori, consolatori, ilusori, preparatori, instructori.
 
-**-ibil** (verbes in -ar: -abil, cp. [§ 85](10-Verb?id=§-85)): de verbes transitiv: quo on posse far, de verbes íntransitiv: quo posse far: formabil, audibil, íncredibil, visibil, explosibil, combustibil (combustibile).
+**-ibil** (verbes in -ar: -abil, cp. [§ 85](10-Verb#-85)): de verbes transitiv: quo on posse far, de verbes íntransitiv: quo posse far: formabil, audibil, íncredibil, visibil, explosibil, combustibil (combustibile).
 
 **-nd** (verbes in -ir: -end) adjuntet al tema presentic: a far: leend, dividend (dividende).
 
