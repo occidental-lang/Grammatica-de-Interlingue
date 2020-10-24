@@ -116,7 +116,7 @@ _decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre, monoplan, 
 
 Li sufixes adjunte se al radica ínmediatmen o med vocales o consonantes ligativ. In infra es indicat li complet finales, ma sin alquel desinenties facultativ.
 
-?> On posse adjunter pluri sufixes in li sam parol.
+> On posse adjunter pluri sufixes in li sam parol.
 
 ## § 132
 
@@ -144,7 +144,7 @@ _p. ex. minera(lo)logie, popular(i)isar, pacif(ic)isme, infanter(i)ist, ambiti(o
 
 Omni modern formationes de verbes fini per -ar, ne per -ir e ne per -er. Li maxim mult verbes es derivat de altri paroles per li **ínmediat derivation**, to es per adjunter li finale del infinitive **-ar**, sin sufix.
 
-?> Ti verbes derivat have divers significationes:
+> Ti verbes derivat have divers significationes:
 
 1. de objectes, materiales, abstractes: provider per: coronar, armar, motivar.
 

@@ -23,7 +23,7 @@ De du o pluri **vocales succedent** chascun es pronunciat. Inaccentuat **i** e *
 
 leôn *, creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic, trottuôre, càude, neutrâl, arcâic, vîa, revûe.
 
-?> Signes ilustrativ, ne a scrir: ê: long, è: curt.
+> Signes ilustrativ, ne a scrir: ê: long, è: curt.
 
 In plu un strict regul pri li pronunciation long o curt, cludet o apert del vocales ne existe. Preferibil es li pronunciationes simil a FGHI.
 
@@ -37,7 +37,7 @@ In general **vocales _accentuat_** es passabilmen **long**; ma avan **c final**,
 
 marchâr*, vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc, depèche, paradòx, pâtre, splìttre, câble, pèlle, dilëmma, cömma, mënte, mönte, atàcca, fòsse, transpòrt, idê, burô, cön, ë, li, më.
 
-?> Signes ilustrativ, ne a scrir: ê: long e cludet, ë: curt e cludet, è: curt e apert.
+> Signes ilustrativ, ne a scrir: ê: long e cludet, ë: curt e cludet, è: curt e apert.
 
 ## § 5
 
