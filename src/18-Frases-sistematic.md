@@ -1,5 +1,5 @@
 # FRASES SISTEMATIC 
-## POR OMNI ESSENTIAL REGULES GRAMMATICAL {docsify-ignore}
+## POR OMNI ESSENTIAL REGULES GRAMMATICAL 
 
 Li sequent unic págine de frases in Interlingue contene por chascun essential regul del grammatica de Interlingue, inclusive li sintax, un frase specimenic. Tam simplic es li mecanisme de ti lingue international, que un mult plu grand circul de persones es capabil realmen mastrisar ti simplic mecanisme sin exceptiones, quam to vell esser possibil in alquel lingue national con su mult plu complicat regules e con omni li exceptiones e li amasse de special manieres de expression. Tamen Interlingue possede li plen expressivitá del lingues national; nam it ne renuncia a cert possibilitás de expression, it solmen selecte in chascun punctu li maxim simplic o li maxim conosset form de expression.
 

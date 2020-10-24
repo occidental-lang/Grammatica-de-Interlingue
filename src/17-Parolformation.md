@@ -136,7 +136,7 @@ _p. ex. minera(lo)logie, popular(i)isar, pacif(ic)isme, infanter(i)ist, ambiti(o
 
 **-ach**: pejorativ, despreciant: cavallacho, linguache, criticachar.
 
-# Verbal sufixes {docsify-ignore}
+# Verbal sufixes 
 
 ## § 134
 

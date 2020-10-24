@@ -1,6 +1,6 @@
 # Ll LINGUE VERMEN INTERNATIONAL
-## Textu de un disco de grammofon recivibil del Interlingue-Centrale {docsify-ignore}
-### St. Gallen 7, Svissia. {docsify-ignore}
+## Textu de un disco de grammofon recivibil del Interlingue-Centrale 
+### St. Gallen 7, Svissia. 
 
 Car auditores!
 
